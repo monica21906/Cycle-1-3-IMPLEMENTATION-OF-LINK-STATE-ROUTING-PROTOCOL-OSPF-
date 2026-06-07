@@ -35,7 +35,7 @@ To connect computers in multiple networks using Open Shortest Path First (OSPF) 
 ---
 
 ## 🗺️ NETWORK DIAGRAM
-*(Insert diagram or screenshot from Packet Tracer)*
+
 
 ---
 <img width="919" height="378" alt="image" src="https://github.com/user-attachments/assets/ca993ef1-ac39-413a-a79b-bd26f9cc0615" />
